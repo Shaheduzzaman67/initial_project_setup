@@ -1,12 +1,10 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
+import 'package:project_setup/AppManager/assets.dart';
+import 'package:project_setup/AppManager/screen_constants.dart';
 import 'package:project_setup/Controller/Dashboard/dashboard_controller.dart';
-import 'package:project_setup/DeviceManager/screen_constants.dart';
 
-import '../DeviceManager/assets.dart';
 
 
 class SplashScreen extends StatefulWidget {
