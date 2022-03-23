@@ -2,14 +2,6 @@ class NetworkLabel {
   static const secrate = "secrate";
   static const phone = "phone";
 
-
-
-  static const login = "login";
-  static const tabMenu = "tabmenu?vTabID=";
-  static const notice = "app_notice";
-  static const tabMenuDetails = "tabmenudtl";
-  static const chat = "app_chat?vUserID=";
-
   static const String hasErrorTitle = "OOPS!";
   static const String hasErrorMessage =
       "Something went wrong. Please try again";
