@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
-import 'package:project_setup/AppManager/assets.dart';
-import 'package:project_setup/AppManager/colors.dart';
+import 'package:project_setup/app/assets.dart';
+import 'package:project_setup/app/colors.dart';
 import '../Controller/Dashboard/dashboard_controller.dart';
 
 

@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:project_setup/AppManager/assets.dart';
-import 'package:project_setup/AppManager/screen_constants.dart';
-import 'package:project_setup/Controller/Dashboard/dashboard_controller.dart';
+import 'package:project_setup/app/assets.dart';
+import 'package:project_setup/app/screen_constants.dart';
+import 'package:project_setup/controller/Dashboard/dashboard_controller.dart';
 
 
 

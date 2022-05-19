@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:project_setup/Router/nav_router.dart';
-import 'package:project_setup/Router/route_constants.dart';
+import 'package:project_setup/router/nav_router.dart';
+import 'package:project_setup/router/route_constants.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 import 'Language/localization_service.dart';
 

@@ -23,7 +23,7 @@ class LocalizationService extends Translations {
   ];
 
   // Keys and their translations
-  // Translations are separated maps in `Language` file
+  // Translations are separated maps in `language` file
   @override
   Map<String, Map<String, String>> get keys => {
         'en_US': enUS, // lang/en_us.dart

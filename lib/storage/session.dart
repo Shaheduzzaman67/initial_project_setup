@@ -1,8 +1,8 @@
 
 
 import 'package:get_storage/get_storage.dart';
-import 'package:project_setup/Strings/config_string.dart';
-import 'package:project_setup/Strings/storage_string.dart';
+import 'package:project_setup/strings/config_string.dart';
+import 'package:project_setup/strings/storage_string.dart';
 
 
 
@@ -30,12 +30,12 @@ class Session {
   getSecret() async {
     var tk = await box.read(StorageString.secrate) ?? "";
     print("🍎 secrate from box! $tk");
-    ConfigSetting.secrate = tk;
+    ConfigString.secrate = tk;
     return tk;
   }
 
   saveSecret(String newSecrate) async {
-    ConfigSetting.secrate = newSecrate;
+    ConfigString.secrate = newSecrate;
     box.write(StorageString.secrate, newSecrate);
     print("🍎saved secrate to box! $newSecrate");
   }

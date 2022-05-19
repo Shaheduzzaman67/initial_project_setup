@@ -1,4 +1,4 @@
-class ConfigSetting {
+class ConfigString {
 
   static String secrate = "";
 

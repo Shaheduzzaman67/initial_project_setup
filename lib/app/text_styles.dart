@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:project_setup/AppManager/app_labels.dart';
-import 'package:project_setup/AppManager/colors.dart';
+import 'package:project_setup/app/app_labels.dart';
+import 'package:project_setup/app/colors.dart';
 import 'screen_constants.dart';
 
 class TextStyles {

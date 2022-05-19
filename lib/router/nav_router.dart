@@ -1,7 +1,7 @@
 
 import 'package:get/route_manager.dart';
-import 'package:project_setup/Router/route_constants.dart';
-import 'package:project_setup/Screen/splash_screen.dart';
+import 'package:project_setup/router/route_constants.dart';
+import 'package:project_setup/screen/splash_screen.dart';
 
 
 

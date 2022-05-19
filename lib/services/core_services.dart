@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:project_setup/Model/header_model.dart';
-import 'package:project_setup/Store/session.dart';
-import 'package:project_setup/Strings/network_label.dart';
+import 'package:project_setup/model/header_model.dart';
+import 'package:project_setup/storage/session.dart';
+import 'package:project_setup/strings/network_label.dart';
 
 
 

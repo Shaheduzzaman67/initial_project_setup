@@ -53,7 +53,7 @@ class ScreenConstant {
   static double sizeXXXL = 50.0;
   static double sizeUltraXXXL = 65.0;
 
-  /*Screen Size dependent Constants*/
+  /*screen Size dependent Constants*/
   static double screenWidthHalf = screenWidth / 2;
   static double screenWidthThird = screenWidth / 3;
   static double screenWidthFourth = screenWidth / 4;
@@ -67,7 +67,7 @@ class ScreenConstant {
   static double screenWidthFifteen = screenWidth / 15;
   static double screenWidthMinimum = screenWidth / 25;
 
-  /*Screen Size dependent Constants*/
+  /*screen Size dependent Constants*/
   static double screenHeightHalf = screenHeight / 2;
   static double screenHeightThird = screenHeight / 3;
   static double screenHeightFourth = screenHeight / 4;
@@ -208,7 +208,7 @@ class ScreenConstant {
       bottom: sizeSmall,
     );
 
-    /*Screen Size dependent Constants*/
+    /*screen Size dependent Constants*/
     screenWidthHalf = DeviceManager.instance.width / 2;
     screenWidthThird = DeviceManager.instance.width / 3;
     screenWidthFourth = DeviceManager.instance.width / 4;
